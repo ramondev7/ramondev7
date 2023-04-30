@@ -1,0 +1,5 @@
+- 👋 Hola, soy Ramón Gómez
+- 👀 Estoy interesado en la tecnología, en especial en la programación
+- 🌱 Actualmente estoy aprendiendo Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 Si quieres contactar conmigo puedes escribirme un mail a ramongch7@gmail.com
